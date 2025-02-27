@@ -42,10 +42,4 @@ Open **RStudio** and run:
 install.packages("shiny")
 install.packages("ggplot2")
 
-### 🚀 Run the Application  
-In **RStudio**, enter:  
-
-```r
-library(shiny)
-runApp()
 
